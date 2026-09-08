@@ -1,0 +1,24 @@
+
+al-folio-upgrade-report.md
+assets/libs/
+assets/rendercv/rendercv_output/*.typ
+.bundle
+.DS_store
+.idea
+.jekyll-cache
+.jekyll-cache/
+.jekyll-metadata
+node_modules/
+output/playwright/
+*.pyc
+__pycache__/
+# Python bytecode from bin/ helper scripts
+.ruby-version
+.sass-cache
+_site
+_site/
+test-results/
+.tweet-cache
+vendor
+vendor/
+.venv

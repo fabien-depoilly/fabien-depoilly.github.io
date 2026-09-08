@@ -1,0 +1,155 @@
+cv:
+  name: Fabien Depoilly
+  label: PhD in Fluid Mechanics
+  email: fabien.depoilly@gmail.com
+  location: Villeurbanne, France
+  image: ""
+  summary: >
+    My research focuses on the stability of thin-film flows of non-Newtonian fluids down an inclined
+    plane, relevant to numerous natural and industrial contexts (avalanches, mudflows, coating
+    processes, etc.). Given the diversity of rheological behaviours, my work aims to establish a
+    unifying theoretical framework — independent of any specific rheological law — confronted with
+    experimental data obtained on an inclined channel.
+
+  social_networks:
+    - network: ORCID
+      username: 0009-0003-1629-8614
+    - network: LinkedIn
+      username: fabien-depoilly-4a7baa14a
+    - network: GitHub
+      username: fabien-depoilly
+
+  address:
+    city: Villeurbanne
+    region: Auvergne-Rhône-Alpes
+    postalCode: "69100"
+    countryCode: FR
+
+  sections:
+    Education:
+      - institution: Lyon 1 University Claude Bernard
+        location: Villeurbanne, France
+        url: https://theses.hal.science/tel-05719924
+        area: Fluid Mechanics
+        studyType: PhD Thesis
+        start_date: 2022-12
+        end_date: 2026-06
+        courses: "Stability of Non-Newtonian Fluid Film Flows on an Inclined Plane"
+        highlights:
+          - "Defended on June 30, 2026"
+          - "Advisor: Hamda Ben Hadid (Professor)"
+          - "Co-supervisors: Séverine Millet, Simon Dagois-Bohy (Associate Professors)"
+          - "Research Unit: Laboratoire de Mécanique des Fluides et d'Acoustique (LMFA), UMR5509, Université Lyon 1"
+
+      - institution: Lyon 1 University Claude Bernard
+        location: Villeurbanne, France
+        area: Mechanics, Fluid Mechanics and Energetics track
+        studyType: Master's degree
+        start_date: 2020-09
+        end_date: 2022-09
+
+      - institution: Le Mans Université
+        location: Le Mans, France
+        area: Engineering Sciences, Acoustics track
+        studyType: Bachelor's degree
+        start_date: 2017-09
+        end_date: 2020-06
+
+    Experience:
+      - company: Polytech Lyon
+        position: Temporary Teaching and Research Assistant (ATER)
+        location: Villeurbanne, France
+        start_date: 2025-12
+        end_date: 2026-08
+
+      - company: Lyon 1 University Claude Bernard
+        position: PhD Candidate, with Supplementary Teaching Duties (ACE)
+        location: Villeurbanne, France
+        start_date: 2022-12
+        end_date: 2025-12
+
+    Publications:
+      - title: Unifying the roll waves
+        authors:
+          - Fabien Depoilly
+          - Séverine Millet
+          - Hamda Ben Hadid
+          - Simon Dagois-Bohy
+          - François Rousset
+        publisher: PLOS ONE
+        releaseDate: 2024-11-19
+        url: https://doi.org/10.1371/journal.pone.0310805
+        summary: >
+          Derivation of the Orr-Sommerfeld equation of stability for any generalized Newtonian fluid,
+          and a novel analytical expression for the wave celerity and critical Reynolds number, valid
+          for any rheology.
+
+    Talks:
+      - bullet: >
+          **Short-wave Linear Stability of Non-Newtonian Fluids Down a Slope** — 11th International
+          Bifurcation and Instabilities in Fluid Dynamics Symposium (BIFD), L'Aquila, Italy, July 2026
+          (Oral presentation)
+
+      - bullet: >
+          **Stability of non Newtonian fluids down a slope** — GDR TransInter Workshop, Aussois,
+          France, June 2025 (Oral presentation)
+
+      - bullet: >
+          **[Primary instability of roll waves on thin films of non-Newtonian fluids down a
+          slope](https://hal.science/hal-05266732)** — 10th International Bifurcation and
+          Instabilities in Fluid Dynamics Symposium (BIFD), Edinburgh, Scotland, June 2024 (Oral
+          presentation)
+
+      - bullet: >
+          **[Linear stability of a generalised Newtonian fluid down an incline: unifying the roll
+          waves](https://hal.science/hal-05266696)** — Fluids and Complexity III, Nice, France,
+          December 2023 (Poster presentation)
+
+    Teaching:
+      - bullet: |
+          **Lyon 1 University Claude Bernard, Department of Mechanics**
+          - 2025: Introduction to Fluid Mechanics (2nd-year Bachelor's, Tutorials)
+          - 2023 -- 2025: Scientific Computing (3rd-year Bachelor's, Labs)
+          - 2023 -- 2025: Finite Difference Methods for PDEs in Mechanics (1st-year Master's, Tutorials/Labs)
+
+      - bullet: |
+          **Polytech Lyon**
+          - 2025: Fluid Mechanics 2 (3rd-year Mechanical Engineering, Tutorials/Labs)
+          - 2025: Mathematical Tools for Engineers 2 (3rd-year Mechanical Engineering, Tutorials)
+          - 2023 -- 2024: Basic Numerical Methods (3rd-year Mechanical Engineering, Labs)
+          - 2023: Numerical Methods for Mechanics 1 (3rd-year Mechanical Engineering, Labs)
+
+    Responsibilities:
+      - bullet: >
+          **Elected member of the Research Commission, Academic Council** (2022 -- 2024), Lyon 1
+          University Claude Bernard.
+
+    Languages:
+      - name: French
+        summary: Native speaker
+      - name: English
+        summary: Fluent (C1)
+      - name: Polish
+        summary: Elementary (A2)
+      - name: German
+        summary: Beginner (A1)
+
+    Skills:
+      - name: Fluid Mechanics Research
+        keywords:
+          - Thin Film Stability
+          - Non-Newtonian Fluids
+          - Rheology
+      - name: Programming
+        keywords:
+          - Python
+
+    References:
+      - name: '<a href="mailto:severine.millet@univ-lyon1.fr">Séverine Millet</a>'
+        reference: >
+          Associate Professor at Lyon 1 University Claude Bernard (LMFA). Co-supervisor of my PhD
+          thesis on the stability of non-Newtonian thin-film flows.
+      - name: '<a href="mailto:simon.dagois-bohy@univ-lyon1.fr">Simon Dagois-Bohy</a>'
+        reference: >
+          Associate Professor at Lyon 1 University Claude Bernard (LMFA). Co-supervisor of my PhD
+          thesis on the stability of non-Newtonian thin-film flows.

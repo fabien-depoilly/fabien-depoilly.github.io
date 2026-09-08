@@ -1,0 +1,10 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/depoilly_cv.pdf # path to your CV PDF file
+email: fabien.depoilly@gmail.com # your email address
+orcid_id: 0009-0003-1629-8614 # ORCID iD
+github_username: fabien-depoilly # GitHub username
+linkedin_username: fabien-depoilly-4a7baa14a # LinkedIn username
+# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
